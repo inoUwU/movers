@@ -58,7 +58,7 @@ The goal is simple: **"Don't touch the mouse anymore."** That's it.
 ---
 
 ## 📜 License
-[MIT License](https://github.com/inoUwU/movers/edit/main/LICENSE.md)
+[MIT License](https://github.com/inoUwU/movers/blob/main/LICENSE)
 
 ---
 
