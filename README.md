@@ -1,14 +1,15 @@
-# 🏹 Movers
+<div align="center">
+<img src="https://emoji2svg.deno.dev/api/🏹" alt="eyecatch" height="100">
 
-> **move + rs = movers**
-> A next-gen mouse-free experience powered by your keyboard.
+# Movers
 
----
+</div>  
 
 ## 💡 Concept
 
 **Movers** is a lightweight tool written in Rust that lets you control your mouse cursor using only the keyboard.
 The goal is simple: **"Don't touch the mouse anymore."** That's it.
+> **move + rs = movers**
 
 ---
 
@@ -57,8 +58,7 @@ The goal is simple: **"Don't touch the mouse anymore."** That's it.
 ---
 
 ## 📜 License
-
-MIT License
+[MIT License](https://github.com/inoUwU/movers/edit/main/LICENSE.md)
 
 ---
 
